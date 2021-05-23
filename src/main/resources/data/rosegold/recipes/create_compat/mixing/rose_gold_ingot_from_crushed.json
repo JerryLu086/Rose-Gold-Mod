@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:crushed_copper_ore"
+    },
+    {
+      "item": "create:crushed_gold_ore"
+    },
+    {
+      "item": "create:crushed_gold_ore"
+    },
+    {
+      "item": "create:crushed_gold_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "rosegold:rose_gold_ingot",
+      "count": 4
+    }
+  ],
+  "heatRequirement": "heated",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

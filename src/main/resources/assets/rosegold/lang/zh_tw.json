@@ -1,0 +1,20 @@
+{
+    "block.rosegold.rose_gold_block": "玫瑰金塊",
+
+    "item.rosegold.rose_gold_ingot": "玫瑰金錠",
+    "item.rosegold.rose_gold_nugget": "玫瑰金粒",
+    "item.rosegold.crushed_rose_gold": "碎狀玫瑰金",
+
+    "item.rosegold.rose_gold_pickaxe": "玫瑰金鎬",
+    "item.rosegold.rose_gold_sword": "玫瑰金劍",
+    "item.rosegold.rose_gold_axe": "玫瑰金斧",
+    "item.rosegold.rose_gold_shovel": "玫瑰金鏟",
+    "item.rosegold.rose_gold_hoe": "玫瑰金鋤",
+
+    "item.rosegold.brass_cleaver": "黃銅劈劍",
+
+    "item.rosegold.rose_gold_helmet": "玫瑰金頭盔",
+    "item.rosegold.rose_gold_chestplate": "玫瑰金胸甲",
+    "item.rosegold.rose_gold_leggings": "玫瑰金護腿",
+    "item.rosegold.rose_gold_boots": "玫瑰金靴子"
+}

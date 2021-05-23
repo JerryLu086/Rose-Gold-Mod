@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/rose_gold"
+    }
+  ],
+  "result": {
+    "item": "rosegold:rose_gold_nugget",
+    "count": 9
+  }
+}

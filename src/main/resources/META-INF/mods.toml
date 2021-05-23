@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+
+[[mods]]
+    modId="rosegold"
+    version="b0.1"
+    displayName="Rose Gold Mod"
+    logoFile="pack.png"
+    authors="JerryLu086"
+    description='''
+A mod added a new material type - Rose Gold.
+There will be some utilities for Create use Rose Gold to make.
+'''

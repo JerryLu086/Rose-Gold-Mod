@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "rosegold:crushed_rose_gold"
+    }
+  ],
+  "results": [
+    {
+      "item": "rosegold:rose_gold_nugget",
+      "count": 10
+    },
+    {
+      "item": "rosegold:rose_gold_nugget",
+      "count": 5,
+      "chance": 0.5
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

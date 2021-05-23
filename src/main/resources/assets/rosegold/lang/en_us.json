@@ -1,0 +1,20 @@
+{
+    "block.rosegold.rose_gold_block": "Rose Gold Block",
+
+    "item.rosegold.rose_gold_ingot": "Rose Gold Ingot",
+    "item.rosegold.rose_gold_nugget": "Rose Gold Nugget",
+    "item.rosegold.crushed_rose_gold": "Crushed Rose Gold",
+
+    "item.rosegold.rose_gold_pickaxe": "Rose Gold Pickaxe",
+    "item.rosegold.rose_gold_sword": "Rose Gold Sword",
+    "item.rosegold.rose_gold_axe": "Rose Gold Axe",
+    "item.rosegold.rose_gold_shovel": "Rose Gold Shovel",
+    "item.rosegold.rose_gold_hoe": "Rose Gold Hoe",
+
+    "item.rosegold.brass_cleaver": "Brass Cleaver",
+
+    "item.rosegold.rose_gold_helmet": "Rose Gold Helmet",
+    "item.rosegold.rose_gold_chestplate": "Rose Gold Chestplate",
+    "item.rosegold.rose_gold_leggings": "Rose Gold Leggings",
+    "item.rosegold.rose_gold_boots": "Rose Gold Boots"
+}
