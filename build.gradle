@@ -19,6 +19,11 @@ repositories {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
+apply plugin: 'org.spongepowered.mixin'
+
+mixin {
+    add sourceSets.main, "rosegold.refmap.json"
+}
 
 version = 'mc1.16-b1.1'
 group = 'com.jerrylu086.rosegold'
